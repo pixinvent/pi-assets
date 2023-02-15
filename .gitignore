@@ -1,0 +1,14 @@
+extras
+.DS_Store
+*.fig
+*.sketch
+*.xd
+*.aep
+
+*.gif
+!**/item-page/*.gif
+
+*.mov
+*.mp4
+*.zip
+*.psd
