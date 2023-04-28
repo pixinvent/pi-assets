@@ -1,0 +1,19 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="80" height="80" fill="white"/>
+<rect width="11.3987" height="32.6294" rx="5.69937" transform="matrix(-0.865206 0.501417 0.498585 0.866841 54.3294 24)" fill="#666CFF"/>
+<rect width="11.3987" height="32.6294" rx="5.69937" transform="matrix(-0.865206 0.501417 0.498585 0.866841 54.4457 24)" fill="url(#paint0_linear_3548_100183)" fill-opacity="0.4"/>
+<rect width="11.3987" height="32.6294" rx="5.69937" transform="matrix(0.865206 0.501417 -0.498585 0.866841 49.2468 24)" fill="#666CFF"/>
+<rect width="11.3987" height="32.6294" rx="5.69937" transform="matrix(-0.865206 0.501417 0.498585 0.866841 31.3513 24)" fill="#666CFF"/>
+<rect width="11.3987" height="32.6294" rx="5.69937" transform="matrix(-0.865206 0.501417 0.498585 0.866841 31.3513 24)" fill="url(#paint1_linear_3548_100183)" fill-opacity="0.4"/>
+<rect width="11.3987" height="32.6294" rx="5.69937" transform="matrix(0.865206 0.501417 -0.498585 0.866841 26.2684 24)" fill="#666CFF"/>
+<defs>
+<linearGradient id="paint0_linear_3548_100183" x1="5.69937" y1="0" x2="5.69937" y2="32.6294" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_3548_100183" x1="5.69937" y1="0" x2="5.69937" y2="32.6294" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
