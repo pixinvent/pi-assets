@@ -44,7 +44,7 @@ https://cdn.jsdelivr.net/gh/pixinvent/pi-assets/vuexy/admin-template/logo/logo.p
 **Banner**
 
 ```
-https://cdn.jsdelivr.net/gh/pixinvent/pi-assets/vuexy/admin-template/banner/vuexy-admin-template-banner.png
+https://cdn.jsdelivr.net/gh/pixinvent/pi-assets/vuexy/admin-template/banner/banner.png
 ```
 
 **Landing-page**
