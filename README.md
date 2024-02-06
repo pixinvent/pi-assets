@@ -30,7 +30,7 @@ Table of contents:
 
 To use assets over cdn:
 ```
-https://ts-assets.b-cdn.net/ts-assets/path/to/file.extension
+https://cdn.pixinvent.com/ts-assets/path/to/file.extension
 ```
 
 Usage examples:
@@ -38,19 +38,19 @@ Usage examples:
 **Logo**
 
 ```
-https://cdn.jsdelivr.net/gh/pixinvent/pi-assets/vuexy/admin-template/logo/logo.png
+https://cdn.pixinvent.com/gh/pixinvent/pi-assets/vuexy/admin-template/logo/logo.png
 ```
 
 **Banner**
 
 ```
-https://cdn.jsdelivr.net/gh/pixinvent/pi-assets/vuexy/admin-template/banner/banner.png
+https://cdn.pixinvent.com/gh/pixinvent/pi-assets/vuexy/admin-template/banner/banner.png
 ```
 
 **Landing-page**
 
 ```
-https://cdn.jsdelivr.net/gh/pixinvent/pi-assets/vuexy/landing-page/app-academy.png
+https://cdn.pixinvent.com/gh/pixinvent/pi-assets/vuexy/landing-page/app-academy.png
 ```
 
 <details>
